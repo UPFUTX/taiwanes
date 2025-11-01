@@ -1,0 +1,384 @@
+[14:24:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:24:10] [ServerMain/INFO]: Loaded 1461 recipes
+[14:24:10] [ServerMain/INFO]: Loaded 1574 advancements
+[14:24:10] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[14:24:10] [Server thread/INFO]: Loading properties
+[14:24:10] [Server thread/INFO]: Default game type: SURVIVAL
+[14:24:10] [Server thread/INFO]: Generating keypair
+[14:24:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:24:11] [Server thread/INFO]: Using epoll channel type
+[14:24:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:24:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:24:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:24:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:24:11] [Server thread/INFO]: Preparing level "world"
+[14:24:11] [Server thread/INFO]: Loading 0 persistent chunks...
+[14:24:11] [Server thread/INFO]: Preparing spawn area: 100%
+[14:24:11] [Server thread/INFO]: Time elapsed: 17 ms
+[14:24:11] [Server thread/INFO]: Done (0.383s)! For help, type "help"
+[14:24:17] [Server thread/INFO]: Axel[/10.242.96.252:56365] logged in with entity id 17 at (1063.300000011921, -24.0, -759.6999999880791)
+[14:24:17] [Server thread/INFO]: Axel joined the game
+[14:24:37] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:54452] logged in with entity id 330 at (1150.137898298432, 64.0, -4326.391362667766)
+[14:24:37] [Server thread/INFO]: UPFUTX_300 joined the game
+[14:26:25] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=1053, y=68, z=-4335} ja{x=1052, y=67, z=-4335}
+[14:27:23] [Server thread/INFO]: Axel has made the advancement [Diamonds!]
+[14:29:06] [Server thread/INFO]: Axel lost connection: Disconnected
+[14:29:06] [Server thread/INFO]: Axel left the game
+[14:29:31] [Server thread/INFO]: Axel[/10.242.96.252:63465] logged in with entity id 3084 at (1089.2243640991405, -19.0, -751.1931208763972)
+[14:29:31] [Server thread/INFO]: Axel joined the game
+[14:31:52] [Server thread/INFO]: hoa_xd[/10.242.148.126:52971] logged in with entity id 4640 at (-2632.0462064460594, 91.0, -2069.015263409595)
+[14:31:52] [Server thread/INFO]: hoa_xd joined the game
+[14:32:01] [Server thread/INFO]: [Not Secure] <hoa_xd> o
+[14:32:03] [Server thread/INFO]: [Not Secure] <hoa_xd> la
+[14:40:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> gaetano
+[14:40:31] [Server thread/INFO]: [Not Secure] <UPFUTX_300> entra en la llamada
+[14:40:41] [Server thread/INFO]: [Not Secure] <hoa_xd> despues voy
+[14:40:48] [Server thread/INFO]: [Not Secure] <UPFUTX_300> pq no ahora
+[14:40:49] [Server thread/INFO]: [Not Secure] <hoa_xd> esperen
+[14:40:52] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y duerme
+[14:40:53] [Server thread/INFO]: [Not Secure] <UPFUTX_300> o salte xd
+[14:40:56] [Server thread/INFO]: [Not Secure] <hoa_xd> ya estoy durmiendo xd
+[14:40:59] [Server thread/INFO]: [Not Secure] <UPFUTX_300> xd
+[14:41:03] [Server thread/INFO]: Axel lost connection: Disconnected
+[14:41:03] [Server thread/INFO]: Axel left the game
+[14:41:20] [Server thread/INFO]: Axel[/10.242.96.252:49976] logged in with entity id 12763 at (1069.480419567063, -40.0, -818.5269345427504)
+[14:41:20] [Server thread/INFO]: Axel joined the game
+[14:45:28] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-2645, y=117, z=-2272} ja{x=-2645, y=115, z=-2271}
+[14:47:07] [Server thread/INFO]: Axel has made the advancement [Take Aim]
+[14:51:13] [Server thread/INFO]: Axel lost connection: Disconnected
+[14:51:13] [Server thread/INFO]: Axel left the game
+[14:51:15] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[14:51:15] [Server thread/INFO]: hoa_xd left the game
+[14:51:18] [Server thread/INFO]: hoa_xd[/10.242.148.126:53966] logged in with entity id 20809 at (-2681.300000011921, 64.5625, -1898.6920929102298)
+[14:51:18] [Server thread/INFO]: hoa_xd joined the game
+[14:51:27] [Server thread/INFO]: Axel[/10.242.96.252:64688] logged in with entity id 21171 at (1025.511960523843, -34.0, -776.6999999880791)
+[14:51:27] [Server thread/INFO]: Axel joined the game
+[14:54:28] [Server thread/WARN]: hoa_xd moved too quickly! -10.149545050377583,0.7967356006687112,1.4805838086449512
+[15:01:36] [Server thread/INFO]: [Not Secure] <hoa_xd> ya vengo me llaman
+[15:01:37] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[15:01:37] [Server thread/INFO]: hoa_xd left the game
+[15:02:45] [Server thread/INFO]: Axel lost connection: Disconnected
+[15:02:45] [Server thread/INFO]: Axel left the game
+[15:03:03] [Server thread/INFO]: Axel[/10.242.96.252:64304] logged in with entity id 30058 at (1190.699999988079, -8.0, -701.5703531776596)
+[15:03:03] [Server thread/INFO]: Axel joined the game
+[15:03:29] [Server thread/INFO]: Axel has made the advancement [Cover Me with Diamonds]
+[15:06:34] [Server thread/INFO]: Axel lost connection: Disconnected
+[15:06:34] [Server thread/INFO]: Axel left the game
+[15:20:44] [Server thread/INFO]: hoa_xd[/10.242.148.126:54040] logged in with entity id 36193 at (-2676.699999988079, 65.0, -1916.2055783122814)
+[15:20:44] [Server thread/INFO]: hoa_xd joined the game
+[15:26:15] [Server thread/INFO]: chino555[/10.242.90.119:61289] logged in with entity id 39513 at (-2678.300000011921, 65.0, -1917.699999988079)
+[15:26:15] [Server thread/INFO]: chino555 joined the game
+[15:26:53] [Server thread/INFO]: [Not Secure] <hoa_xd> zzzzzzzzzzzzzzzzzzzzzzzzz
+[15:26:57] [Server thread/INFO]: [Not Secure] <chino555> dormi juan
+[15:27:04] [Server thread/INFO]: [Not Secure] <chino555> ZzZzZzZz
+[15:28:37] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-2694, y=64, z=-1920} ja{x=-2694, y=63, z=-1921}
+[15:29:03] [Server thread/INFO]: hoa_xd has made the advancement [We Need to Go Deeper]
+[15:31:41] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[15:31:41] [Server thread/INFO]: UPFUTX_300 left the game
+[15:33:32] [Server thread/INFO]: Axel[/10.242.96.252:49801] logged in with entity id 43629 at (1170.4060960774475, -6.0, -695.7607772643871)
+[15:33:32] [Server thread/INFO]: Axel joined the game
+[15:39:07] [Server thread/INFO]: [Not Secure] <hoa_xd> zzzzzzzzzzzzzzzzzzzzz
+[15:39:11] [Server thread/INFO]: Axel lost connection: Disconnected
+[15:39:11] [Server thread/INFO]: Axel left the game
+[15:39:29] [Server thread/INFO]: Axel[/10.242.96.252:59175] logged in with entity id 46722 at (1183.6323778877327, 28.0, -665.7990569838241)
+[15:39:29] [Server thread/INFO]: Axel joined the game
+[15:42:03] [Server thread/INFO]: chino555 has made the advancement [Those Were the Days]
+[15:42:04] [Server thread/INFO]: [Not Secure] <Axel> W
+[15:45:02] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:61895] logged in with entity id 50927 at (1152.2660213259132, 65.0, -4333.699999988079)
+[15:45:02] [Server thread/INFO]: UPFUTX_300 joined the game
+[15:45:56] [Server thread/INFO]: hoa_xd has made the advancement [Those Were the Days]
+[15:46:35] [Server thread/WARN]: UPFUTX_300 moved too quickly! -1.7309819786007665,0.0,12.94242540746609
+[15:47:02] [Server thread/INFO]: chino555 has made the advancement [War Pigs]
+[15:49:34] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=835, y=66, z=-503} ja{x=835, y=64, z=-501}
+[15:49:58] [Server thread/INFO]: chino555 has made the advancement [Hidden in the Depths]
+[15:50:03] [Server thread/INFO]: Axel has made the advancement [A Seedy Place]
+[15:52:08] [Server thread/INFO]: Axel has made the advancement [Ice Bucket Challenge]
+[15:55:23] [Server thread/INFO]: hoa_xd has made the advancement [War Pigs]
+[15:55:44] [Server thread/INFO]: chino555 lost connection: Disconnected
+[15:55:44] [Server thread/INFO]: chino555 left the game
+[15:56:11] [Server thread/INFO]: chino555[/10.242.90.119:64963] logged in with entity id 60837 at (-96.69999998807907, 69.0, -272.8789495703777)
+[15:56:11] [Server thread/INFO]: chino555 joined the game
+[15:56:13] [Server thread/INFO]: hoa_xd was slain by Hoglin
+[15:58:21] [Server thread/INFO]: Axel has made the advancement [Enchanter]
+[16:04:54] [Server thread/INFO]: UPFUTX_300 has made the advancement [A Seedy Place]
+[16:05:09] [Server thread/INFO]: [Not Secure] <Axel> t
+[16:05:17] [Server thread/INFO]: [Not Secure] <chino555> t o t
+[16:05:21] [Server thread/INFO]: [Not Secure] <chino555> Tnt
+[16:05:22] [Server thread/INFO]: [Not Secure] <chino555> B)
+[16:05:24] [Server thread/INFO]: [Not Secure] <hoa_xd> ya vamos por ustedes
+[16:05:26] [Server thread/INFO]: [Not Secure] <hoa_xd> jijija
+[16:05:38] [Server thread/INFO]: [Not Secure] <hoa_xd> deah
+[16:07:24] [Server thread/INFO]: Axel lost connection: Disconnected
+[16:07:24] [Server thread/INFO]: Axel left the game
+[16:07:39] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[16:07:39] [Server thread/INFO]: UPFUTX_300 left the game
+[16:07:57] [Server thread/INFO]: Axel[/10.242.96.252:55430] logged in with entity id 73770 at (850.4251776300316, 64.9375, -506.35945383110567)
+[16:07:57] [Server thread/INFO]: Axel joined the game
+[16:08:08] [Server thread/INFO]: [Not Secure] <hoa_xd> VAMOS POR TI AXEL RAMIREZ
+[16:08:08] [Server thread/INFO]: [Not Secure] <chino555> t o t
+[16:08:50] [Server thread/INFO]: [Not Secure] <Axel> voy por ustedes
+[16:08:53] [Server thread/INFO]: [Not Secure] <Axel> ndea
+[16:09:25] [Server thread/INFO]: [Not Secure] <chino555> axel se fue al nether
+[16:09:30] [Server thread/INFO]: [Not Secure] <chino555> predictt
+[16:09:44] [Server thread/INFO]: [Not Secure] <Axel> jajajja
+[16:09:55] [Server thread/INFO]: [Not Secure] <Axel> puede ser o no
+[16:10:04] [Server thread/INFO]: [Not Secure] <Axel> o ira juan
+[16:11:25] [Server thread/INFO]: Axel lost connection: Disconnected
+[16:11:25] [Server thread/INFO]: Axel left the game
+[16:12:35] [Server thread/INFO]: chino555 lost connection: Disconnected
+[16:12:35] [Server thread/INFO]: chino555 left the game
+[16:12:59] [Server thread/INFO]: chino555[/10.242.90.119:55496] logged in with entity id 79220 at (-1982.8825901686437, 71.0, -1386.446770402605)
+[16:12:59] [Server thread/INFO]: chino555 joined the game
+[16:18:22] [Server thread/INFO]: Axel[/10.242.96.252:64280] logged in with entity id 84459 at (847.6651056033891, 65.5625, -506.3285941963266)
+[16:18:22] [Server thread/INFO]: Axel joined the game
+[16:18:55] [Server thread/INFO]: [Not Secure] <hoa_xd> ol
+[16:18:56] [Server thread/INFO]: [Not Secure] <hoa_xd> a
+[16:19:03] [Server thread/INFO]: [Not Secure] <chino555> e/msg hoa_xd me podes pasar tu pico de netherite pa picar mas rapido
+[16:19:15] [Server thread/INFO]: [Not Secure] <chino555> la puta
+[16:19:20] [Server thread/INFO]: [Not Secure] <Axel> jakakakjajakak
+[16:19:20] [Server thread/INFO]: [Not Secure] <hoa_xd> pero imbecil que pio escribis mal
+[16:19:28] [Server thread/INFO]: [Not Secure] <hoa_xd> tai imbecil
+[16:19:39] [Server thread/INFO]: [Not Secure] <Axel> AJAKAKAJAKJAK
+[16:20:04] [Server thread/INFO]: Axel has made the advancement [We Need to Go Deeper]
+[16:20:36] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:60926] logged in with entity id 87221 at (1151.492186826831, 64.0, -4332.42255033171)
+[16:20:36] [Server thread/INFO]: UPFUTX_300 joined the game
+[16:24:00] [Server thread/INFO]: [Not Secure] <chino555> duerman hdpts
+[16:25:45] [Server thread/INFO]: [Not Secure] <chino555> JUAN
+[16:25:48] [Server thread/INFO]: [Not Secure] <UPFUTX_300> q
+[16:25:51] [Server thread/INFO]: [Not Secure] <chino555> SIN COMANDOS
+[16:25:56] [Server thread/INFO]: [Not Secure] <UPFUTX_300> pq o q
+[16:25:57] [Server thread/INFO]: [Not Secure] <chino555> 2000 zombies
+[16:26:00] [Server thread/INFO]: [Not Secure] <UPFUTX_300> XD
+[16:26:04] [Server thread/INFO]: [Not Secure] <UPFUTX_300> no soy yo amigo
+[16:26:04] [Server thread/INFO]: [Not Secure] <chino555> de la nada
+[16:26:32] [Server thread/INFO]: chino555 lost connection: Disconnected
+[16:26:32] [Server thread/INFO]: chino555 left the game
+[16:26:58] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tai que harias si aparezco volando en un bote
+[16:27:07] [Server thread/INFO]: [Not Secure] <UPFUTX_300> :3
+[16:27:18] [Server thread/INFO]: [Not Secure] <UPFUTX_300> detras tuyo
+[16:27:19] [Server thread/INFO]: [Not Secure] <UPFUTX_300> con mazo
+[16:27:29] [Server thread/INFO]: [Not Secure] <UPFUTX_300> full netherita
+[16:27:32] [Server thread/INFO]: [Not Secure] <UPFUTX_300> full encantado
+[16:27:35] [Server thread/INFO]: [Not Secure] <UPFUTX_300> prote 4
+[16:27:39] [Server thread/INFO]: [Not Secure] <UPFUTX_300> filo
+[16:27:46] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y arco con poder
+[16:27:50] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y llama
+[16:27:54] [Server thread/INFO]: [Not Secure] <UPFUTX_300> con cristales
+[16:29:21] [Server thread/INFO]: [Not Secure] <hoa_xd> se pega un tiro
+[16:29:46] [Server thread/INFO]: Axel lost connection: Disconnected
+[16:29:46] [Server thread/INFO]: Axel left the game
+[16:35:39] [Server thread/INFO]: [Not Secure] <hoa_xd> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[16:36:20] [Server thread/INFO]: chino555 (aef97f99-9030-34ed-9d71-eee04bf72e38) lost connection: Disconnected
+[16:36:40] [Server thread/INFO]: chino555[/10.242.90.119:60375] logged in with entity id 98253 at (-383.30000001192093, 56.0, -431.7692833346438)
+[16:36:40] [Server thread/INFO]: chino555 joined the game
+[16:36:52] [Server thread/INFO]: Axel[/10.242.96.252:58531] logged in with entity id 98604 at (-23.69999998807907, 50.0, -206.30000001192093)
+[16:36:52] [Server thread/INFO]: Axel joined the game
+[16:39:25] [Server thread/INFO]: Axel has made the advancement [Hidden in the Depths]
+[16:40:24] [Server thread/INFO]: [Not Secure] <chino555> t/msg hoa_xd vamos por el nether debemos ir a nuestra fortaleza para ir a por blaze rods
+[16:40:35] [Server thread/INFO]: [Not Secure] <chino555> EU T DE MRD QUE LO QUE PRESIONA DOBLE
+[16:40:36] [Server thread/INFO]: [Not Secure] <hoa_xd> tai de mierda
+[16:40:43] [Server thread/INFO]: [Not Secure] <Axel> KAJAJKAKAJAJAK
+[16:40:44] [Server thread/INFO]: [Not Secure] <hoa_xd> llama na
+[16:40:47] [Server thread/INFO]: [Not Secure] <hoa_xd> pelotudo
+[16:41:14] [Server thread/INFO]: [Not Secure] <chino555> JUAN
+[16:41:19] [Server thread/INFO]: Axel tried to swim in lava
+[16:41:24] [Server thread/INFO]: [Not Secure] <UPFUTX_300> gg
+[16:41:24] [Server thread/INFO]: [Not Secure] <chino555> XDDDDD
+[16:41:32] [Server thread/INFO]: [Not Secure] <hoa_xd> axel la lava no es mar
+[16:41:34] [Server thread/INFO]: [Not Secure] <chino555> AXEL ES UN PERUANO
+[16:41:39] [Server thread/INFO]: [Not Secure] <hoa_xd> como vas a intentar nadar ahi
+[16:41:41] [Server thread/INFO]: [Not Secure] <hoa_xd> que loco
+[16:41:52] [Server thread/INFO]: [Not Secure] <hoa_xd> lava 2-0 axel
+[16:41:57] [Server thread/INFO]: [Not Secure] <chino555> XDDD
+[16:41:57] [Server thread/INFO]: [Not Secure] <hoa_xd> se acabo el debate
+[16:46:30] [Server thread/INFO]: [Not Secure] <hoa_xd> duerman
+[16:46:39] [Server thread/INFO]: [Not Secure] <chino555> el que no duerma le gustan los femboys
+[16:46:47] [Server thread/INFO]: [Not Secure] <chino555> ya esta
+[16:46:50] [Server thread/INFO]: [Not Secure] <hoa_xd> porque dormiste entonces axel
+[16:47:03] [Server thread/INFO]: [Not Secure] <hoa_xd> ndea
+[16:47:54] [Server thread/INFO]: [Not Secure] <Axel> T
+[16:47:59] [Server thread/INFO]: [Not Secure] <chino555> t o tttt
+[16:48:17] [Server thread/INFO]: [Not Secure] <chino555> t/msg hoa_xd si bld hace
+[16:48:39] [Server thread/INFO]: [Not Secure] <chino555> Ya mrd bue eso no revela nada
+[16:48:39] [Server thread/INFO]: [Not Secure] <hoa_xd> unite a la llamada
+[16:48:48] [Server thread/INFO]: [Not Secure] <chino555> BUENO YA CARGUE EL CELULAR
+[16:48:52] [Server thread/INFO]: [Not Secure] <chino555> ya mijo ya
+[16:48:56] [Server thread/INFO]: [Not Secure] <hoa_xd> vas a terminar revelando algo importante
+[16:50:58] [Server thread/INFO]: [Not Secure] <Axel> T
+[16:51:00] [Server thread/INFO]: [Not Secure] <chino555> T
+[16:51:04] [Server thread/INFO]: [Not Secure] <UPFUTX_300> T
+[16:51:07] [Server thread/INFO]: [Not Secure] <hoa_xd> T
+[16:51:17] [Server thread/INFO]: [Not Secure] <Axel> SOY TENDENCIA
+[16:51:24] [Server thread/INFO]: [Not Secure] <chino555> SOY TENDENCIA
+[16:51:56] [Server thread/INFO]: [Not Secure] <hoa_xd> SOY TENDENCIA
+[16:52:55] [Server thread/INFO]: UPFUTX_300 has made the advancement [Stay Hydrated!]
+[16:53:45] [Server thread/INFO]: [Not Secure] <Axel> T
+[16:56:38] [Server thread/INFO]: Villager cyx['Farmer'/87141, l='ServerLevel[world]', x=1108.98, y=66.00, z=-4306.10] died, message: 'Farmer tried to swim in lava'
+[16:57:13] [Server thread/INFO]: [Not Secure] <chino555> duerman
+[16:57:21] [Server thread/INFO]: [Not Secure] <Axel> daleeeeeeeeee
+[16:57:21] [Server thread/INFO]: [Not Secure] <chino555> el que no duerma es pu to
+[16:57:25] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[16:57:25] [Server thread/INFO]: hoa_xd left the game
+[16:57:28] [Server thread/INFO]: hoa_xd[/10.242.148.126:51319] logged in with entity id 129801 at (-2644.452540929138, 76.0, -2012.699999988079)
+[16:57:28] [Server thread/INFO]: hoa_xd joined the game
+[17:00:45] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-2413, y=137, z=-2285} ja{x=-2413, y=137, z=-2286}
+[17:00:50] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-2412, y=139, z=-2291} ja{x=-2412, y=139, z=-2292}
+[17:01:11] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-2422, y=136, z=-2297} ja{x=-2422, y=137, z=-2296}
+[17:01:11] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-2422, y=136, z=-2297} ja{x=-2422, y=137, z=-2296}
+[17:02:26] [Server thread/INFO]: Villager cyx['Villager'/87131, l='ServerLevel[world]', x=1088.42, y=60.47, z=-4338.75] died, message: 'Villager tried to swim in lava'
+[17:08:31] [Server thread/INFO]: [Not Secure] <hoa_xd> ZZZZZZZZZZZZZ
+[17:08:35] [Server thread/INFO]: [Not Secure] <Axel> ZZZZZZZZZZZ
+[17:08:48] [Server thread/INFO]: [Not Secure] <hoa_xd> rapido pue zzz que me explota un creeper
+[17:08:55] [Server thread/INFO]: [Not Secure] <Axel> e
+[17:11:42] [Server thread/INFO]: [Not Secure] <chino555> nde juan como van?
+[17:11:47] [Server thread/INFO]: [Not Secure] <chino555> la lava les comio la lengua?
+[17:11:48] [Server thread/INFO]: [Not Secure] <chino555> XD
+[17:11:51] [Server thread/INFO]: [Not Secure] <hoa_xd> XDD
+[17:12:01] [Server thread/INFO]: [Not Secure] <Axel> qq
+[17:12:06] [Server thread/INFO]: [Not Secure] <Axel> t
+[17:12:09] [Server thread/INFO]: [Not Secure] <chino555> t o t
+[17:12:14] [Server thread/INFO]: [Not Secure] <chino555> que haces axel
+[17:12:43] [Server thread/INFO]: [Not Secure] <UPFUTX_300> tai.........
+[17:12:47] [Server thread/INFO]: [Not Secure] <chino555> hola
+[17:12:53] [Server thread/INFO]: [Not Secure] <hoa_xd> DXD
+[17:12:54] [Server thread/INFO]: chino555 was slain by UPFUTX_300
+[17:13:01] [Server thread/INFO]: [Not Secure] <Axel> ajkakaj
+[17:13:10] [Server thread/INFO]: [Not Secure] <chino555> diavlo
+[17:13:15] [Server thread/INFO]: [Not Secure] <hoa_xd> tai me tenias q hacer casow
+[17:13:21] [Server thread/INFO]: [Not Secure] <Axel> ya sabiamos tai
+[17:13:32] [Server thread/INFO]: [Not Secure] <Axel> q rata
+[17:13:37] [Server thread/INFO]: [Not Secure] <chino555> HA
+[17:14:04] [Server thread/INFO]: [Not Secure] <chino555> juan
+[17:14:13] [Server thread/INFO]: [Not Secure] <chino555> ese plano de vos bajando las escaleras dio mio
+[17:14:24] [Server thread/INFO]: [Not Secure] <chino555> boe
+[17:16:01] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=539, y=64, z=166} ja{x=538, y=62, z=166}
+[17:16:08] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=566, y=66, z=136} ja{x=566, y=64, z=137}
+[17:16:08] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=566, y=66, z=136} ja{x=566, y=64, z=137}
+[17:16:08] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=567, y=65, z=136} ja{x=566, y=64, z=137}
+[17:16:08] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=567, y=65, z=136} ja{x=566, y=64, z=137}
+[17:16:24] [Server thread/INFO]: [Not Secure] <chino555> gaetano
+[17:16:27] [Server thread/INFO]: [Not Secure] <chino555> plan z
+[17:16:42] [Server thread/INFO]: [Not Secure] <hoa_xd> a mi no me vieron todavia
+[17:16:44] [Server thread/INFO]: [Not Secure] <hoa_xd> jejejeje
+[17:16:49] [Server thread/INFO]: [Not Secure] <UPFUTX_300> seguro=
+[17:16:50] [Server thread/INFO]: [Not Secure] <UPFUTX_300> ?
+[17:16:56] [Server thread/INFO]: [Not Secure] <Axel> seguro oa
+[17:17:01] [Server thread/INFO]: [Not Secure] <hoa_xd> si
+[17:17:05] [Server thread/INFO]: [Not Secure] <hoa_xd> muy seguro
+[17:17:11] [Server thread/INFO]: [Not Secure] <hoa_xd> jsjdjdha
+[17:18:01] [Server thread/INFO]: [Not Secure] <chino555> les aviso desde ya
+[17:18:10] [Server thread/INFO]: [Not Secure] <chino555> a mi base no voy ni a palo
+[17:18:17] [Server thread/INFO]: [Not Secure] <chino555> siganme si quieren no voy a ir ahi
+[17:18:22] [Server thread/INFO]: [Not Secure] <UPFUTX_300> y si digo que se
+[17:18:24] [Server thread/INFO]: [Not Secure] <UPFUTX_300> dodne vives?
+[17:18:25] [Server thread/INFO]: [Not Secure] <Axel> mierda
+[17:18:34] [Server thread/INFO]: [Not Secure] <Axel> o no tanto
+[17:18:42] [Server thread/INFO]: [Not Secure] <chino555> al lado ite
+[17:18:43] [Server thread/INFO]: [Not Secure] <Axel> sabemos cosas tai
+[17:18:47] [Server thread/INFO]: [Not Secure] <Axel> o no
+[17:18:56] [Server thread/INFO]: [Not Secure] <chino555> por eso llegamos
+[17:19:09] [Server thread/WARN]: UPFUTX_300 moved too quickly! -8.577137268903698,0.0,6.9667347200120275
+[17:19:21] [Server thread/INFO]: [Not Secure] <hoa_xd> la cagaste tai
+[17:19:41] [Server thread/INFO]: [Not Secure] <chino555> Ojeda para que lo que revelaste que estabas ahi?
+[17:19:50] [Server thread/INFO]: [Not Secure] <chino555> bld
+[17:19:56] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:19:56] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:19:58] [Server thread/INFO]: [Not Secure] <hoa_xd> para traten de encontrarme si pueden
+[17:20:10] [Server thread/INFO]: [Not Secure] <hoa_xd> desconectense na
+[17:20:16] [Server thread/INFO]: [Not Secure] <chino555> gaetano
+[17:20:18] [Server thread/INFO]: [Not Secure] <hoa_xd> q
+[17:20:23] [Server thread/INFO]: [Not Secure] <chino555> explota ya no mas todo a la mierda
+[17:20:34] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:20:35] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:20:35] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:20:50] [Server thread/WARN]: UPFUTX_300 moved too quickly! 6.6868368567998,0.0,10.329893679656152
+[17:22:41] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:22:47] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:23:10] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:23:25] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:23:26] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:23:56] [Server thread/INFO]: [Not Secure] <hoa_xd> van a encontrarme pio ya
+[17:24:03] [Server thread/INFO]: [Not Secure] <chino555> espera
+[17:24:11] [Server thread/INFO]: [Not Secure] <UPFUTX_300> yoe stoy yendo a su base
+[17:24:19] [Server thread/INFO]: [Not Secure] <chino555> y como weon
+[17:24:24] [Server thread/INFO]: [Not Secure] <Axel> estas en nuestra base oa
+[17:24:30] [Server thread/INFO]: [Not Secure] <hoa_xd> desde hace rato
+[17:24:38] [Server thread/INFO]: [Not Secure] <chino555> Voy a ir solo pio yo?
+[17:24:43] [Server thread/INFO]: [Not Secure] <hoa_xd> le dare la segunda equipacion a tai
+[17:24:44] [Server thread/INFO]: [Not Secure] <Axel> q tan profundo
+[17:24:50] [Server thread/INFO]: [Not Secure] <hoa_xd> veni nomas juan a nuestra base
+[17:24:52] [Server thread/INFO]: [Not Secure] <hoa_xd> no hay nada
+[17:25:00] [Server thread/INFO]: [Not Secure] <hoa_xd> mejor asi matamos a axel y saqueamos todo
+[17:25:07] [Server thread/INFO]: [Not Secure] <hoa_xd> sin tener que enfrentarte
+[17:25:10] [Server thread/INFO]: [Not Secure] <hoa_xd> jijija
+[17:25:12] [Server thread/WARN]: UPFUTX_300 moved too quickly! 10.58020424493742,0.0,4.099146702675284
+[17:25:35] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:25:37] [Server thread/INFO]: hoa_xd has made the advancement [Hidden in the Depths]
+[17:25:49] [Server thread/INFO]: [Not Secure] <chino555> SI ROBALE
+[17:25:49] [Server thread/WARN]: UPFUTX_300 moved wrongly!
+[17:26:05] [Server thread/INFO]: [Not Secure] <Axel> oa ya te vi
+[17:26:12] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[17:26:12] [Server thread/INFO]: UPFUTX_300 left the game
+[17:26:12] [Server thread/INFO]: [Not Secure] <hoa_xd> rayos
+[17:26:24] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:52863] logged in with entity id 163594 at (-444.51717679050626, 38.0, -343.4970732930401)
+[17:26:24] [Server thread/INFO]: UPFUTX_300 joined the game
+[17:26:28] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[17:26:28] [Server thread/INFO]: UPFUTX_300 left the game
+[17:26:52] [Server thread/INFO]: chino555 has made the advancement [Getting an Upgrade]
+[17:26:58] [Server thread/INFO]: [Not Secure] <hoa_xd> XDDD
+[17:27:00] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:52872] logged in with entity id 164053 at (-445.2266847776732, 38.0, -344.41705766834446)
+[17:27:00] [Server thread/INFO]: UPFUTX_300 joined the game
+[17:27:01] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[17:27:01] [Server thread/INFO]: UPFUTX_300 left the game
+[17:27:05] [Server thread/INFO]: [Not Secure] <hoa_xd> por el nether escapo
+[17:27:08] [Server thread/INFO]: Axel has made the advancement [Hot Stuff]
+[17:27:08] [Server thread/INFO]: UPFUTX_300[/10.242.149.228:52876] logged in with entity id 164215 at (-445.2266847776732, 38.0, -344.41705766834446)
+[17:27:08] [Server thread/INFO]: UPFUTX_300 joined the game
+[17:27:10] [Server thread/INFO]: UPFUTX_300 lost connection: Disconnected
+[17:27:10] [Server thread/INFO]: UPFUTX_300 left the game
+[17:27:19] [Server thread/INFO]: [Not Secure] <hoa_xd> uno peor que otro
+[17:28:55] [Server thread/INFO]: [Not Secure] <hoa_xd> duerman
+[17:29:16] [Server thread/INFO]: [Not Secure] <Axel> oa
+[17:29:22] [Server thread/INFO]: [Not Secure] <hoa_xd> q
+[17:29:30] [Server thread/INFO]: [Not Secure] <Axel> seguis en la base
+[17:29:37] [Server thread/INFO]: [Not Secure] <chino555> desconectate no mas
+[17:29:39] [Server thread/INFO]: [Not Secure] <hoa_xd> si
+[17:29:50] [Server thread/INFO]: [Not Secure] <hoa_xd> vos nomas faltas que te desconectes y le saqueo todo
+[17:29:52] [Server thread/INFO]: [Not Secure] <hoa_xd> equisde
+[17:30:02] [Server thread/INFO]: [Not Secure] <Axel> no te veo oa
+[17:30:08] [Server thread/INFO]: [Not Secure] <chino555> gaetano modo okupa
+[17:30:13] [Server thread/INFO]: [Not Secure] <hoa_xd> estoy sumamente escondido
+[17:30:14] [Server thread/INFO]: [Not Secure] <Axel> no estas aca
+[17:30:20] [Server thread/INFO]: [Not Secure] <hoa_xd> no como tai que revelo su ubi
+[17:30:31] [Server thread/INFO]: [Not Secure] <Axel> si tenes bolas escondete serca mio
+[17:30:40] [Server thread/INFO]: [Not Secure] <chino555> y como pio me vio juan?
+[17:30:45] [Server thread/INFO]: [Not Secure] <chino555> legalmente
+[17:30:52] [Server thread/INFO]: [Not Secure] <hoa_xd> duerman na
+[17:30:58] [Server thread/INFO]: [Not Secure] <Axel> se te vio al llegar
+[17:31:04] [Server thread/INFO]: [Not Secure] <chino555> la ptm
+[17:31:11] [Server thread/INFO]: [Not Secure] <hoa_xd> esque use a tai como carnada
+[17:31:18] [Server thread/INFO]: [Not Secure] <hoa_xd> eso tai no lo sabia
+[17:31:24] [Server thread/INFO]: [Not Secure] <hoa_xd> tai vino sin nada aparte de armadura
+[17:31:27] [Server thread/INFO]: [Not Secure] <chino555> duerman nah
+[17:31:27] [Server thread/INFO]: [Not Secure] <hoa_xd> yo si vine equipado
+[17:31:37] [Server thread/INFO]: [Not Secure] <chino555> duerman
+[17:31:46] [Server thread/INFO]: Gamerule sendCommandFeedback is now set to: false
+[17:32:46] [Server thread/INFO]: Axel lost connection: Disconnected
+[17:32:46] [Server thread/INFO]: Axel left the game
+[17:32:50] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:32:50] [Server thread/INFO]: hoa_xd left the game
+[17:32:53] [Server thread/INFO]: hoa_xd[/10.242.148.126:50680] logged in with entity id 170236 at (-2699.240996793599, 64.0, -1911.1649889510236)
+[17:32:53] [Server thread/INFO]: hoa_xd joined the game
+[17:32:55] [Server thread/INFO]: hoa_xd lost connection: Disconnected
+[17:32:55] [Server thread/INFO]: hoa_xd left the game
+[17:32:59] [Server thread/INFO]: hoa_xd[/10.242.148.126:50688] logged in with entity id 170520 at (-2694.424470527752, 64.1212968405392, -1913.3569772261408)
+[17:32:59] [Server thread/INFO]: hoa_xd joined the game
+[17:36:32] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-835, y=66, z=685} ja{x=-834, y=64, z=685}
+[17:36:32] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-835, y=66, z=685} ja{x=-834, y=64, z=685}
+[17:36:32] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-836, y=66, z=685} ja{x=-834, y=64, z=685}
+[17:36:59] [Server thread/INFO]: Invalid name or UUID
+[17:36:59] [Server thread/INFO]: ...fect give <tu_nombre> minecraft:regeneration 30 1 true<--[HERE]
+[17:37:10] [Server thread/INFO]: chino555 lost connection: Disconnected
+[17:37:10] [Server thread/INFO]: chino555 left the game
+[17:37:54] [Server thread/INFO]: No entity was found
+[17:42:25] [Server thread/INFO]: Made UPFUTX_300 a server operator
